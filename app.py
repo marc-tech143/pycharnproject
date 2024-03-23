@@ -9,4 +9,5 @@ weight_kg = int(weight_lbs) * 0.45
 print(weight_kg)
 print(weight_lbs[0])
 course = 'python for Beginners'
+hjokuju,jghl,jhjokyulkjpglujy,jlujl,lhjy;kjytljljld\ltylk
 print(course[0])
